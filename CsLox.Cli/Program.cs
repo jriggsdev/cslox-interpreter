@@ -1,4 +1,6 @@
-﻿namespace CsLox.Cli;
+﻿using CsLox.Cli.Expressions;
+
+namespace CsLox.Cli;
 
 public static class Program
 {
